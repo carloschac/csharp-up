@@ -1,0 +1,16 @@
+C:\Users\Aluno\Documents\GitHub\csharp-up\provaBimestral\bin\Debug\net5.0\provaBimestral.exe
+C:\Users\Aluno\Documents\GitHub\csharp-up\provaBimestral\bin\Debug\net5.0\provaBimestral.deps.json
+C:\Users\Aluno\Documents\GitHub\csharp-up\provaBimestral\bin\Debug\net5.0\provaBimestral.runtimeconfig.json
+C:\Users\Aluno\Documents\GitHub\csharp-up\provaBimestral\bin\Debug\net5.0\provaBimestral.runtimeconfig.dev.json
+C:\Users\Aluno\Documents\GitHub\csharp-up\provaBimestral\bin\Debug\net5.0\provaBimestral.dll
+C:\Users\Aluno\Documents\GitHub\csharp-up\provaBimestral\bin\Debug\net5.0\ref\provaBimestral.dll
+C:\Users\Aluno\Documents\GitHub\csharp-up\provaBimestral\bin\Debug\net5.0\provaBimestral.pdb
+C:\Users\Aluno\Documents\GitHub\csharp-up\provaBimestral\obj\Debug\net5.0\provaBimestral.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\csharp-up\provaBimestral\obj\Debug\net5.0\provaBimestral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\csharp-up\provaBimestral\obj\Debug\net5.0\provaBimestral.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\csharp-up\provaBimestral\obj\Debug\net5.0\provaBimestral.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\csharp-up\provaBimestral\obj\Debug\net5.0\provaBimestral.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\csharp-up\provaBimestral\obj\Debug\net5.0\provaBimestral.dll
+C:\Users\Aluno\Documents\GitHub\csharp-up\provaBimestral\obj\Debug\net5.0\ref\provaBimestral.dll
+C:\Users\Aluno\Documents\GitHub\csharp-up\provaBimestral\obj\Debug\net5.0\provaBimestral.pdb
+C:\Users\Aluno\Documents\GitHub\csharp-up\provaBimestral\obj\Debug\net5.0\provaBimestral.genruntimeconfig.cache
